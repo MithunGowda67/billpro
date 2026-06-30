@@ -1,0 +1,29 @@
+# Node dependencies & build
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/.cache/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Maven build & IDEs
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/.factorypath
+
+# OS & Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
